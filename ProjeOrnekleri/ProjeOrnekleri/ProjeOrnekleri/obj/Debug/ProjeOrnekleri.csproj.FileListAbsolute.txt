@@ -1,0 +1,7 @@
+C:\Users\Meka Softech\Desktop\ProjeOrnekleri\ProjeOrnekleri\bin\Debug\ProjeOrnekleri.exe.config
+C:\Users\Meka Softech\Desktop\ProjeOrnekleri\ProjeOrnekleri\bin\Debug\ProjeOrnekleri.exe
+C:\Users\Meka Softech\Desktop\ProjeOrnekleri\ProjeOrnekleri\bin\Debug\ProjeOrnekleri.pdb
+C:\Users\Meka Softech\Desktop\ProjeOrnekleri\ProjeOrnekleri\obj\Debug\ProjeOrnekleri.csprojAssemblyReference.cache
+C:\Users\Meka Softech\Desktop\ProjeOrnekleri\ProjeOrnekleri\obj\Debug\ProjeOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Meka Softech\Desktop\ProjeOrnekleri\ProjeOrnekleri\obj\Debug\ProjeOrnekleri.exe
+C:\Users\Meka Softech\Desktop\ProjeOrnekleri\ProjeOrnekleri\obj\Debug\ProjeOrnekleri.pdb

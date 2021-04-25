@@ -1,0 +1,10 @@
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\bin\Debug\DersOrnegi2.exe.config
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\bin\Debug\DersOrnegi2.exe
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\bin\Debug\DersOrnegi2.pdb
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\obj\Debug\DersOrnegi2.csprojAssemblyReference.cache
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\obj\Debug\DersOrnegi2.Properties.Resources.resources
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\obj\Debug\DersOrnegi2.csproj.GenerateResource.cache
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\obj\Debug\DersOrnegi2.csproj.CoreCompileInputs.cache
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\obj\Debug\DersOrnegi2.exe
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\obj\Debug\DersOrnegi2.pdb
+C:\Users\Meka Softech\Desktop\DersOrnegi2\DersOrnegi2\obj\Debug\DersOrnegi2.Form2.resources
