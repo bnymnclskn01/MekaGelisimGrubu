@@ -1,0 +1,25 @@
+﻿--Create
+--Update
+--Delete
+--Select
+--Inner Join
+--Left Join
+--Join
+-- Yeni Veritabanı Oluşturma Kodu
+--Create Database MekaGelisimGrubu
+--Use MekaGelisimGrubu
+--Create Table Ogrenciler(
+--ID int primary key IDENTITY(1,1), --ID adında bir kolon olsun bunun alacağı değer int ve birincil anahtar olsun ve 1den başlayıp 1 er 1 er artsın
+--Name nvarchar(35) NOT NULL, -- Name Adında yeni bir kolon yarat alacağı değer nvarchar c# dilinde string en fazla içinde 35 karekter barındırır, Not Null komutuda boş geçilemez olmalı
+--Surname nvarchar(35) Not Null, --Surname Adında yeni bir kolon yarat alacağı değer nvarchar c# dilinde string en fazla içinde 35 karekter barındırır, Not Null komutuda boş geçilemez olmalı
+--PhoneNumber bigint -- Phone Number Adında yeni kolon yarat alacağı değer bigint büyük integer sayıları büyük tam sayılar 11 haneli rakamlar da girer
+--)
+-- C# kod bitimine ; sql de , c# taki ulong bigint aynı değeri taşır.
+--Select * From Ogrenciler --Seçmek Anlamına Gelir. * Tümünü Ayırt Etmeden Getir.
+--Select Name,Surname,PhoneNumber From Ogrenciler -- * yerine kolondan getirtmek istediğiniz alanları yazarak sql sorgusunu çekebilirsiniz.
+--insert into Ogrenciler (Name,Surname,PhoneNumber) values ('Cihan','Hayta',05301112233) --// Tabloya Yeni Kayıt Ekleme İşlemi Yapıldı
+--Delete From Ogrenciler --//Tablodaki bütün verileri siler
+--Delete From Ogrenciler where ID=2 --İstenilen Alana Göre Silme İşlemi Yapılır.
+--Update Ogrenciler set Name='Cihan' where ID=2 --// Güncelleme İşlemi İçin Kullanılacak Kodlar
+--Drop Table Ogrenciler -- Direk Belirtilen Tabloyu Ortadan Kaldırır.
+Drop Database MekaGelisimGrubu
